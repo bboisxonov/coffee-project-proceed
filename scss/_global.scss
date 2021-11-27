@@ -1,0 +1,29 @@
+.container{
+    max-width: 1360px;
+    margin: 0 auto;
+    padding: 0 25px;
+}
+
+.button{
+    background: #66D2CF;
+    border-radius: 6px;
+    width: 217px;
+    height: 56px;
+    border: 2px solid #66D2CF;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    text-align: center;
+    color: #FEFCF7;
+    text-decoration: none;
+    padding: 15px 25px 16px 25px ;
+}
+
+.button:hover{
+    background: #fff;
+    color: #66D2CF;
+}
+
+.button:active{
+    opacity: 0.85;
+}
